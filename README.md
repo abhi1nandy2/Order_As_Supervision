@@ -1,4 +1,4 @@
-# Code for the ARR 2023 Submission - 'Order-Based Pre-training Strategies for Procedural Text Understanding'
+# Code for the NAACL 2024 Paper - 'Order-Based Pre-training Strategies for Procedural Text Understanding'
 
 ## Required dependencies
 
