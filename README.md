@@ -1,5 +1,7 @@
 # Code for the NAACL 2024 Paper - 'Order-Based Pre-training Strategies for Procedural Text Understanding'
 
+![image](Order_As_Supervision_NAACL_2024_Poster.jpg)
+
 ## Required dependencies
 
 Please run ```pip install -r requirements.txt```. 
